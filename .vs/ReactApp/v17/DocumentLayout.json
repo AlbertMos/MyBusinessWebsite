@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\App.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\App.jsx",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-12T13:42:49.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Skills.css",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Skills.css",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\Skills.css",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Skills.css",
+              "RelativeToolTip": "reactapp.client\\src\\components\\Skills.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T13:27:00.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Skills.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Skills.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\Skills.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Skills.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\components\\Skills.jsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-12T12:54:09.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\About.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\About.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\About.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\components\\About.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-12T11:02:42.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

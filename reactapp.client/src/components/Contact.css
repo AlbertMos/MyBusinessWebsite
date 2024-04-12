@@ -1,0 +1,17 @@
+.contactStyle
+{color:white;}
+
+
+
+@media (max-width: 768px) {
+    .example-element {
+        height: auto; 
+    }
+}
+
+
+@media (min-width: 468px) {
+    .example-element {
+        height: 91vh;
+    }
+}
