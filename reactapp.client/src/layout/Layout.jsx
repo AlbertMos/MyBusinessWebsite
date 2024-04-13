@@ -1,60 +1,26 @@
-import { Outlet, Link } from 'react-router-dom';
+import { Outlet } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+
 
 import './Layout.css';
 import { CiLinkedin } from "react-icons/ci";
 import { FaGithub } from "react-icons/fa";
 import { PiCopyrightLight } from "react-icons/pi";
-import { TiHomeOutline } from "react-icons/ti";
+
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Example from '../components/OffCanvas.jsx';
 export function Layout() {
 
 
     return (
         <div className="app" style={{ backgroundColor: '#20272C'}}>
-
-            <Navbar expand="lg" style={{ backgroundColor: '#317B76', fontWeight: '500'}} className=""  >
-                <Container  >
-                    
-                    
-
-                    <Navbar.Collapse id="basic-navbar-nav" className="d-flex justify-content-center" >
-                    <Navbar.Brand ><Link to="/" className="navColor "><TiHomeOutline/></Link></Navbar.Brand>
-
-                        <Nav >
-                        
-
-                            <Nav.Link   ><Link className="navColor " to="/about">About</Link></Nav.Link>
-                            <Nav.Link ><Link className="navColor " to="/skills">Skills</Link></Nav.Link>
-                            <NavDropdown title="Opinions" id="basic-nav-dropdown" >
-                                <NavDropdown.Item ><Link className="navColor " to="/opinions">Show opinions</Link></NavDropdown.Item>
-                                <NavDropdown.Divider />
-                                <NavDropdown.Item >
-                                    <Link className="navColor " to="/addopinions">Add Opinion</Link>
-                                </NavDropdown.Item>
-                                
-                                
-                            </NavDropdown>
-                            <NavDropdown title="Questions" id="basic-nav-dropdown">
-                                <NavDropdown.Item ><Link className="navColor " to="/questions">Show answers</Link></NavDropdown.Item>
-                                <NavDropdown.Divider />
-                                <NavDropdown.Item >
-                                    <Link className="navColor " to="/addquestions">Add question</Link>
-                                </NavDropdown.Item>
-                                
-
-                            </NavDropdown>
-                            <Nav.Link ><Link className="navColor " to="/contact">Contact</Link></Nav.Link>
-
-                        </Nav>
-                    </Navbar.Collapse>
-                </Container>
-            </Navbar>
+            <div className="d-flex align-items-center justify-content-center">
+<Example />
+            </div>
+            
+            
 
 
             <Container fluid>

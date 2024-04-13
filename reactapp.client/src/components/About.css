@@ -1,0 +1,41 @@
+@media (max-width: 768px) {
+    .example-element {
+        height: auto;
+        margin-top: 50px;
+
+    }
+
+    .picture {
+        width: 250px;
+        height: 400px;
+        
+    }
+
+    
+}
+
+
+@media (min-width: 768px) {
+    .example-element {
+        height: 91vh;
+    }
+
+    
+}
+
+.title {
+    
+    color: white;
+}
+.para {
+    font-weight:100;
+    color: white;
+}
+
+.para2 {
+    font-weight: 500;
+    color: white;
+}
+.titles {
+    color: white;
+}
