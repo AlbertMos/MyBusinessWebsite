@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\skills.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\offcanvas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\offcanvas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\layout\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\layout\\layout.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\skills.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\offcanvas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\offcanvas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,65 +38,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\.gitignore",
-              "RelativeDocumentMoniker": "reactapp.client\\.gitignore",
-              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\.gitignore",
-              "RelativeToolTip": "reactapp.client\\.gitignore",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-04-13T22:07:45.824Z",
+              "DocumentIndex": 1,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\About.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\About.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\About.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\components\\About.jsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-04-14T20:12:45.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OffCanvas.css",
-              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\OffCanvas.css",
-              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\OffCanvas.css",
-              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\OffCanvas.css",
-              "RelativeToolTip": "reactapp.client\\src\\components\\OffCanvas.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Title": "About.css",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\About.css",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\About.css",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\About.css",
+              "RelativeToolTip": "reactapp.client\\src\\components\\About.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-13T21:26:27.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OffCanvas.jsx",
-              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\OffCanvas.jsx",
-              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\OffCanvas.jsx",
-              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\OffCanvas.jsx",
-              "RelativeToolTip": "reactapp.client\\src\\components\\OffCanvas.jsx",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-04-13T20:48:39.317Z",
+              "WhenOpened": "2024-04-14T20:11:35.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Layout.jsx",
-              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\layout\\Layout.jsx",
-              "RelativeDocumentMoniker": "reactapp.client\\src\\layout\\Layout.jsx",
-              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\layout\\Layout.jsx",
-              "RelativeToolTip": "reactapp.client\\src\\layout\\Layout.jsx",
-              "ViewState": "AQIAABQAAAAAAAAAAAAQwB4AAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-04-12T21:25:37.041Z"
+              "Title": "Skills.css",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Skills.css",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\Skills.css",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Skills.css",
+              "RelativeToolTip": "reactapp.client\\src\\components\\Skills.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T20:08:40.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "reactapp.client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\App.jsx",
-              "RelativeToolTip": "reactapp.client\\src\\App.jsx",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "Skills.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Skills.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\Skills.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Skills.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\components\\Skills.jsx",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAkwLYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-04-12T21:21:16.185Z"
+              "WhenOpened": "2024-04-14T20:08:35.234Z",
+              "EditorCaption": ""
             }
           ]
         }
