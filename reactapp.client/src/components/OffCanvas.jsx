@@ -10,7 +10,6 @@ import { Link } from 'react-router-dom';
 import './OffCanvas.css';
 function OffCanvasExample({ name, ...props }) {
     const [show, setShow] = useState(false);
-
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
 
@@ -30,14 +29,10 @@ function OffCanvasExample({ name, ...props }) {
                     <Navbar expand="lg" style={{ backgroundColor: '#317B76', fontWeight: '500' }}  >
                         <Container >
 
-
-
                             <Navbar.Collapse id="basic-navbar-nav" className="d-flex justify-content-center" >
                                 <Navbar.Brand ><Link to="/" className="navColor "><TiHomeOutline /></Link></Navbar.Brand>
 
                                 <Nav >
-
-
                                     <Nav.Link   ><Link className="navColor " to="/about">About</Link></Nav.Link>
                                     <Nav.Link ><Link className="navColor " to="/skills">Skills</Link></Nav.Link>
                                     <NavDropdown title="Opinions" id="basic-nav-dropdown" >

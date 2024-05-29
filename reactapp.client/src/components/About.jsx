@@ -13,7 +13,7 @@ export const About = () => {
 
 
         <Container fluid className=" example-element d-flex justify-content-center align-items-center">
-            <Row >
+            <Row className="przylec">
 
                 <Col  className="d-flex justify-content-end  ">
                     <Image src="../Public/NewFolder/AboutPhoto.jpg" rounded style={{border:'solid 1px black'}} className="mx-3 picture" />

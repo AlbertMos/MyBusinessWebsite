@@ -11,8 +11,8 @@ export const AddOpinions = () => {
 
 
 
-        <Container fluid style={{ height: '90vh' }} className="d-flex align-items-center justify-content-center">
-            <Card className="cards bg-light">
+        <Container fluid  className="d-flex align-items-center justify-content-center example-element">
+            <Card className="przylec cards bg-light">
                 <Card.Title className="header">
                     Add your opinion about working with me
                 </Card.Title>

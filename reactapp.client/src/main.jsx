@@ -49,32 +49,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
                     <Route index element={<Contact />} />
 
                 </Route>
-
-
-
-
-
-
-
-
-
-
-
-
             </Routes>
-
-
-
-
-
-
-
-
-
-
-
-
-
         </BrowserRouter>
   </React.StrictMode>,
 )

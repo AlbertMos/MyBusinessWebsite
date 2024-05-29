@@ -14,18 +14,6 @@
     padding: 30px;
 }
 
-    .cards h2.header {
-        font-size: 40px;
-        margin: 0 0 30px 0;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-    }
-
-.services {
-    display: flex;
-    align-items: center;
-}
-
 .content {
     display: flex;
     flex-wrap: wrap;
@@ -64,24 +52,6 @@
         color: #1DA1F2;
     }
 
-.content-2:hover {
-    border-color: #E1306C;
-    background: #E1306C;
-}
-
-    .content-2:hover a {
-        color: #E1306C;
-    }
-
-.content-3:hover {
-    border-color: #ff0000;
-    background: #ff0000;
-}
-
-    .content-3:hover a {
-        color: #ff0000;
-    }
-
 .content h2 {
     font-size: 30px;
     margin: 16px 0;
@@ -89,10 +59,7 @@
     text-transform: uppercase;
 }
 
-.content p {
-    font-size: 17px;
-    font-family: 'Poppins',sans-serif;
-}
+
 
 .content a {
     margin: 22px 0;
@@ -110,9 +77,34 @@
         border-radius: 4px;
     }
 
-@media (max-width: 900px) {
-    .services {
-        display: flex;
-        flex-direction: column;
+    @media (max-width: 768px) {
+    .example-element {
+        height: auto;
+        margin-top: 50px;
+    }
+
+   
+}
+
+
+@media (min-width: 768px) {
+    .example-element {
+        height: 91vh;
+    }
+}
+
+.przylec {
+    animation: slide-in-right 0.5s forwards;
+}
+
+@keyframes slide-in-right {
+    0% {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateX(0);
+        opacity: 1;
     }
 }
