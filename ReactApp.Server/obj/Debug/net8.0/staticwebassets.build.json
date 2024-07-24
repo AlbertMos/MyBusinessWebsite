@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "JaigJ4RR6oRX7YSvXPrsrfHRnV8qoSr1pYwA6avrKcA=",
+  "Hash": "MBpUbKZwooKqMOchbAJaWi6mQT0yderPLEL/CguDm3I=",
   "Source": "ReactApp.Server",
   "BasePath": "_content/ReactApp.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\szkoła\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\reactapp.client.esproj",
+      "Identity": "C:\\Users\\szkoła\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\reactapp.client.esproj",
       "Version": 2,
       "Source": "reactapp.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

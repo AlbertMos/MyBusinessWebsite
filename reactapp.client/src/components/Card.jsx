@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import "./Card.css";
 
-function Card({ imageSource, title}) {
+function Card({ imageSource, title}) {//przyjmujemy propsy czyli wlasciwosci
     return (
         <div className="card text-center bg-dark mb-2">
             <div className="overflow">
@@ -20,7 +20,7 @@ function Card({ imageSource, title}) {
     );
 }
 
-Card.propTypes = {
+Card.propTypes = {//definiujemy w³aœciwoœci
     title: PropTypes.string.isRequired,
     imageSource: PropTypes.string
 };

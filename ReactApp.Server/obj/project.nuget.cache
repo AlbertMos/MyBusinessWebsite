@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xwTJuX5DVERig8qk0GbdKDVTIz4TVRmIE8rT/6zxIn79PwAAb7hW5BlRSu6paw+UKnZ69ItkTKBzvoDLhNpneA==",
+  "dgSpecHash": "F5vqsDpFgOfE3EH4sAeGFkXNnoA/biqjVeCHZSeWRIX0BFaDP0mMghqpnY/flSpH0GEVoqpRuMt2DI5uwjJbHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\szkoła\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\ReactApp.Server\\ReactApp.Server.csproj",
+  "projectFilePath": "C:\\Users\\szkoła\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\ReactApp.Server\\ReactApp.Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\szkoła\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.4\\microsoft.aspnetcore.spaproxy.8.0.4.nupkg.sha512",
+    "C:\\Users\\szkoła\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.6\\microsoft.aspnetcore.spaproxy.8.0.6.nupkg.sha512",
     "C:\\Users\\szkoła\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\szkoła\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\szkoła\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

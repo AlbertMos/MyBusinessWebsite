@@ -15,12 +15,12 @@
 }
 
 .przylec {
-    animation: slide-in-right 0.5s forwards;
+    animation: slide-in-right 0.5s forwards; /*forwards to znaczy, ze po skonczonej animacji bedzie w stanie koncowym*/
 }
 
-@keyframes slide-in-right {
+@keyframes slide-in-right { /*definiujemy animacje*/
     0% {
-        transform: translateX(100%);
+        transform: translateX(100%); /*stan poczaktowy animacji bo 0%. a translatex100 przesuwa obraz poza ekran*/
         opacity: 0;
     }
 

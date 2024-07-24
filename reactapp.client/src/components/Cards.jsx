@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col';
 import image1 from '../../public/NewFolder/image1.jpg'
 import image3 from '../../public/NewFolder/image3.jpg'
 
-const cards = [
+const cards = [//tablica obiektów
     {
         id: 1,
         title: "How do you create an array?",
@@ -49,7 +49,7 @@ function Cards() {
     return (
         <div className="container d-flex justify-content-center align-items-center h-100">
             <Row >
-                {cards.map(({ title, image,  id }) => (
+                {cards.map(({ title, image,  id }) => (//iterujemy po tablicy za pomoca metody map i destrukturyzujemy na title,image,id abysmy mogli uzywac tego w kodzie
                     <Col md={ 4}  key={id}>
                         <Card imageSource={image} title={title}  />
                     </Col>

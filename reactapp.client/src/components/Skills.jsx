@@ -1,25 +1,18 @@
 import Container from 'react-bootstrap/Container';
-import Accordion from 'react-bootstrap/Accordion';
 import './Skills.css';
-import ListGroup from 'react-bootstrap/ListGroup';
 import { FaJava } from "react-icons/fa6";
 import { FiDatabase } from "react-icons/fi";
 import { SiMicrosoftexcel } from "react-icons/si";
 import { FcLinux } from "react-icons/fc";
 import { FaReact } from "react-icons/fa";
 import { SiCplusplus } from "react-icons/si";
-import React from 'react';
 import SkillCard from './SkillCard.jsx';
 
 export function Skills() {
 
     return (
-
-
-
         <Container fluid className="d-flex align-items-center justify-content-center example-element" >\
             
-           
             <section className="przylec py-5 py-xl-6">
                
                 <div className="container overflow-hidden">

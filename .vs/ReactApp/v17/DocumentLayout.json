@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\szko\u0142a\\Desktop\\Projekt_React_Albert_Mossakowski\\ReactApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\albert_mossakowski_projektreact_final\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\albert_mossakowski_projektreact_final\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\addquestions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\addquestions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\albert_mossakowski_projektreact_final\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|c:\\users\\szko\u0142a\\desktop\\albert_mossakowski_projektreact_final\\projekt_react_albert_mossakowski\\reactapp\\reactapp.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{89815D91-6034-4C2E-AC2C-0A854D03FD0E}|reactapp.client\\reactapp.client.esproj|solutionrelative:reactapp.client\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,55 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Contact.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\Contact.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\Contact.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\components\\Contact.jsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-15T13:00:18.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddQuestions.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\AddQuestions.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\AddQuestions.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\AddQuestions.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\components\\AddQuestions.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-15T12:27:19.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\App.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-07T20:56:54.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\About.jsx",
+              "RelativeDocumentMoniker": "reactapp.client\\src\\components\\About.jsx",
+              "ToolTip": "C:\\Users\\szko\u0142a\\Desktop\\Albert_Mossakowski_ProjektReact_final\\Projekt_React_Albert_Mossakowski\\ReactApp\\reactapp.client\\src\\components\\About.jsx",
+              "RelativeToolTip": "reactapp.client\\src\\components\\About.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-07T20:56:10.996Z"
             }
           ]
         }

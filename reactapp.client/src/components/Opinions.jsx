@@ -66,7 +66,7 @@ export function Opinions() {
                         <th>Date</th>
                         <th>First Name</th>
                         <th>Company</th>
-                        <th>Status</th>
+                        
                         <th>Engagement</th>
                         <th>Knownledge</th>
                         <th>Motivation</th>
@@ -79,7 +79,7 @@ export function Opinions() {
                         <td>2024</td>
                         <td>Fryderyk</td>
                         <td>Samsung</td>
-                        <td>Coworker</td>
+                        
                         <td>4/5</td>
                         <td>3/5</td>
                         <td>5/5</td>
@@ -90,7 +90,7 @@ export function Opinions() {
                         <td>2014</td>
                         <td>Zbigniew</td>
                         <td>PWC</td>
-                        <td>Coworker</td>
+                        
                         <td>4/5</td>
                         <td>5/5</td>
                         <td>5/5</td>
@@ -101,7 +101,7 @@ export function Opinions() {
                         <td>2022</td>
                         <td>Kuba</td>
                         <td>Accenture</td>
-                        <td>Boss</td>
+                        
                         <td>5/5</td>
                         <td>5/5</td>
                         <td>5/5</td>

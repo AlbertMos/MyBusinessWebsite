@@ -16,7 +16,7 @@ export const About = () => {
             <Row className="przylec">
 
                 <Col  className="d-flex justify-content-end  ">
-                    <Image src="../Public/NewFolder/AboutPhoto.jpg" rounded style={{border:'solid 1px black'}} className="mx-3 picture" />
+                    <Image src="../Public/NewFolder/AboutPhoto.jpg" rounded style={{ border: 'solid 1px black' }} className="mx-3 picture pulse-animation" />
                 </Col>
                 <Col>
                     

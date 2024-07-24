@@ -8,19 +8,19 @@ import  { useEffect, useState } from 'react';
 
 const texts = ['Albert Mossakowski'];
 function App() {
-    const [text, setText] = useState('');
-    const [index, setIndex] = useState(0);
+    const [text, setText] = useState('');//text to aktualny renderowany text
+    const [index, setIndex] = useState(0);// index to aktualny indeks tablicy
 
-    useEffect(() => {
-        const intervalId = setInterval(() => {
+    useEffect(() => {//cel to renderowanie tekstu z tablicy
+        const intervalId = setInterval(() => {//uruchamia funkcje ktora jest wykonywana co 150 milisekund
             if (text !== texts[index]) {
                 setText(prevText => texts[index].slice(0, prevText.length + 1));
             } else {
-                clearInterval(intervalId);
+                clearInterval(intervalId);//zatrzymuje interwal gdy juz wygenerujemy tekst
                 setTimeout(() => {
                     setIndex((prevIndex) => (prevIndex + 1) % texts.length);
-                    setText('');
-                }, 2000); // Prze³¹czenie tekstu po 2 sekundach
+                    setText('');//resetuje tekst
+                }, 2000); 
             }
         }, 150);
 
