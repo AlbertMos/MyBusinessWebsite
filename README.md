@@ -28,7 +28,7 @@ Aby uruchomić ten projekt na swoim komputerze, postępuj zgodnie z poniższymi 
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/TwojUzytkownik/TwojeRepozytorium.git
+   git clone https://github.com/AlbertMos/MyBusinessWebsite
 Przejdź do katalogu projektu:
 cd TwojeRepozytorium
 
